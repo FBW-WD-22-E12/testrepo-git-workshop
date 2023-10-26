@@ -6,3 +6,7 @@ const main = () => {
 const login = () => {
     console.log("This is the login functionality we are adding");
 }
+
+const shoppingcart = () => {
+    console.log("this is the shoppingcart functionality");
+}
